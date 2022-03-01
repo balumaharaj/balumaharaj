@@ -728,3 +728,14 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !MESSAGE The project description file (.project) for 'multithread' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 17:09:52.901
 !MESSAGE The project description file (.project) for 'multithreading' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2022-03-01 17:20:17.469
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 17:20:17.469
+!MESSAGE The project description file (.project) for 'Accessmodifiers' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 17:20:17.469
+!MESSAGE The project description file (.project) for 'Arithmeticcalculator' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 17:20:17.469
+!MESSAGE The project description file (.project) for 'Demo2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 17:20:17.469
+!MESSAGE The project description file (.project) for 'multithread' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
