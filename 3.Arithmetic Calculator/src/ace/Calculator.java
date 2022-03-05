@@ -1,6 +1,5 @@
-package com;
+package ace;
 import java.util.Scanner;
-
 public class Calculator {
 
 	public static void main(String[] args) {
@@ -40,9 +39,6 @@ public class Calculator {
          if(choice>=1 && choice<=5)
             System.out.println("Result is: " + result);
           
-     }
+	}
+
 }
-
-	
-
-
